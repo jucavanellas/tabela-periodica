@@ -1,0 +1,36 @@
+body {font-family: garamond;
+    font-size: 50px;}
+    .text {font-size: 250px;
+    text-align: center;
+    color: rgb(173, 140, 96);}
+    
+    table{ width: 100%;
+    text-align: center; 
+    text-size-adjust: 100px;}
+    
+    .elemento:hover{
+        transform: scale(1.3); 
+        cursor: pointer;
+        -webkit-box-shadow: 10px 10px 33px 7px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 33px 7px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 33px 7px rgba(0,0,0,0.75);
+    }
+    .elemento{transition: all .3s;}
+    span{font-size: 32px;}
+    td{ width: 5%;
+    height: 5vh;}
+    .elemento{border: solid 1px;}
+    .header{ font-size: 3em;}
+    .branco {
+        border: none;
+    }
+    .nm {background-color: lightgreen ;}
+    .ma {background-color: palevioletred;}
+    .mat{background-color: plum;}
+    .mt {background-color: aquamarine;}
+    .om {background-color: lightskyblue ;}
+    .sm {background-color: lightpink;}
+    .lan {background-color: lightcoral;}
+    .gn {background-color: indianred;}
+    .lar {background-color: chocolate;}
+    .fdois {background-color:dodgerblue;}
